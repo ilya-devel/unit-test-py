@@ -1,0 +1,6 @@
+### DIRS ###
+venv/
+.idea/
+.pytest_cache/
+
+### FILES ###
